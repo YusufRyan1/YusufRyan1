@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there, I'm Yusuf Ryan 👋
 
-<!--
-**YusufRyan1/YusufRyan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Full-Stack Data Scientist & Data Engineer
 
-Here are some ideas to get you started:
+🚀 Welcome to my GitHub! I’m on a journey to become a **well-rounded Data Scientist and Data Engineer**, focusing on real-world projects, analytics, and data pipelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 Current Focus
+- Deepening **Python & SQL** skills
+- Building **data pipelines & ETL projects**
+- Exploring **Machine Learning & Deep Learning**
+
+---
+
+## 📂 Featured Repositories
+
+### 1️⃣ [100Days_Data_Grind](https://github.com/YusufRyan1/100Days_Data_Grind)  
+💻 100 days of coding challenges & exercises documenting my data journey.  
+
+### 2️⃣ [GuidedPortfolioProjects](https://github.com/YusufRyan1/GuidedPortfolioProjects)  
+📊 Hands-on guided projects to practice real-world data analysis & visualization.
+
+---
+
+## 🛠 Skills & Tools
+| Data Analysis | Data Engineering | Machine Learning | Tools & Platforms |
+|---------------|----------------|----------------|-----------------|
+| Python, Pandas, NumPy, Matplotlib, Seaborn | SQL, ETL Basics, Data Pipelines | Regression, Classification, Scikit-learn | Jupyter Notebook, Git, GitHub, Power BI |
+
+---
+
+## 📈 GitHub Stats
+![Yusuf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YusufRyan1&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YusufRyan-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yusuf-ryan-59815227b/)  
+✉️ Email: yusufryan63@gmail.com
+
