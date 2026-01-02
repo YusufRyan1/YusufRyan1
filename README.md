@@ -28,10 +28,6 @@
 |---------------|----------------|----------------|-----------------|
 | Python, Pandas, NumPy, Matplotlib, Seaborn | SQL, ETL Basics, Data Pipelines | Regression, Classification, Scikit-learn | Jupyter Notebook, Git, GitHub, Power BI |
 
----
-
-## 📈 GitHub Stats
-![Yusuf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YusufRyan1&show_icons=true&theme=radical)
 
 ---
 
