@@ -21,6 +21,9 @@
 ### 2️⃣ [GuidedPortfolioProjects](https://github.com/YusufRyan1/GuidedPortfolioProjects)  
 📊 Hands-on guided projects to practice real-world data analysis & visualization.
 
+### 3️⃣ [my_data_projects](https://github.com/YusufRyan1/my_data_projects)  
+📁 Personal data projects showcasing **end-to-end analytics, data cleaning, and insights**.
+
 ---
 
 ## 🛠 Skills & Tools
@@ -28,10 +31,8 @@
 |---------------|----------------|----------------|-----------------|
 | Python, Pandas, NumPy, Matplotlib, Seaborn | SQL, ETL Basics, Data Pipelines | Regression, Classification, Scikit-learn | Jupyter Notebook, Git, GitHub, Power BI |
 
-
 ---
 
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YusufRyan-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yusuf-ryan-59815227b/)  
 ✉️ Email: yusufryan63@gmail.com
-
